@@ -12,7 +12,7 @@ Saying "Track Player [Name]" will add the name to the right column. Saying "Clea
 If you do not wish to list players, keeping the player list empty or clicking "Update Player List" after deleting all players from the list
 will tell the tracker to add whatever it hears/recognizes following "Add Player". This mode is often incredibly inaccurate.
 
-Control Panel > Ease of Access > Speech REcognition > Train your computer to understand you better is not required to use the player tracker,
+Control Panel > Ease of Access > Speech Recognition > Train your computer to understand you better is not required to use the player tracker,
 but it will improve results according to the documentation on the Microsoft Cognitive Speech API.
 
 
@@ -24,3 +24,6 @@ but it will improve results according to the documentation on the Microsoft Cogn
 4) In the settings, adjust the looks to what you want, but check the "Read From File" checkbox for the Text property.
 5) Point to the "TrackedPlayerList.txt" file you created in step 1.
 6) StreamLabs should update this source as the TrackedPlayerList file updates when Players are added/cleared to the right column on the Player Tracker list.
+
+# Background
+This idea was entirely inspired by [Rayditz](https://www.twitch.tv/rayditz), a Twitch Streamer and high level TFT player who came up with the idea on stream.
