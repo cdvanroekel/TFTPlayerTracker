@@ -1,5 +1,5 @@
 # TFT Player Tracker
-A tool used to track the order via voice commands of who you've played in Team Fight Tactics
+A tool used to track the order via voice commands of who you've played in Team Fight Tactics.
 
 The Player Tracker is prompted by the following phrases:
 "Track Player [Name]", "Clear Player List"
@@ -26,4 +26,4 @@ but it will improve results according to the documentation on the Microsoft Cogn
 6) StreamLabs should update this source as the TrackedPlayerList file updates when Players are added/cleared to the right column on the Player Tracker list.
 
 # Background
-This idea was entirely inspired by [Rayditz](https://www.twitch.tv/rayditz), a Twitch Streamer and high level TFT player who came up with the idea on stream.
+This idea was entirely inspired by [Rayditz](https://www.twitch.tv/rayditz), a Twitch Streamer and high level TFT player who came up with the idea of a tool that could help track players you've recently played via voice commands and having that list also appear on a stream overlay for viewers.
