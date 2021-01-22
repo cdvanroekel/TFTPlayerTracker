@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Algorithm.FuzzyStrings</AssemblyName>
+    <RootNamespace>Algorithm.FuzzyStrings</RootNamespace>
+    <Version>1.0.0.1</Version>
+    <Authors>Clint Masden</Authors>
+    <Company>Global Shop Solutions</Company>
+    <Product>Algorithm FuzzyStrings</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+  </PropertyGroup>
+
+</Project>

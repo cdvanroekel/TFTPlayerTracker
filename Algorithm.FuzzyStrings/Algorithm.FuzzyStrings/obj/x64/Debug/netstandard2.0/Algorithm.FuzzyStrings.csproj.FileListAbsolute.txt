@@ -1,0 +1,26 @@
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.deps.json
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.dll
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.pdb
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.csprojAssemblyReference.cache
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.csproj.CoreCompileInputs.cache
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.AssemblyInfoInputs.cache
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.AssemblyInfo.cs
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.dll
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.pdb
+C:\Users\Chad\Downloads\PlayerTracker\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.deps.json
+C:\Users\Chad\Downloads\PlayerTracker\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.dll
+C:\Users\Chad\Downloads\PlayerTracker\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.pdb
+C:\Users\Chad\Downloads\PlayerTracker\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.AssemblyInfoInputs.cache
+C:\Users\Chad\Downloads\PlayerTracker\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.AssemblyInfo.cs
+C:\Users\Chad\Downloads\PlayerTracker\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Downloads\PlayerTracker\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.dll
+C:\Users\Chad\Downloads\PlayerTracker\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.pdb
+C:\Users\Chad\Documents\Visual Studio Projects\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.deps.json
+C:\Users\Chad\Documents\Visual Studio Projects\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.dll
+C:\Users\Chad\Documents\Visual Studio Projects\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.pdb
+C:\Users\Chad\Documents\Visual Studio Projects\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.AssemblyInfoInputs.cache
+C:\Users\Chad\Documents\Visual Studio Projects\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.AssemblyInfo.cs
+C:\Users\Chad\Documents\Visual Studio Projects\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Documents\Visual Studio Projects\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.dll
+C:\Users\Chad\Documents\Visual Studio Projects\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.pdb
+C:\Users\Chad\Documents\Visual Studio Projects\PlayerTracker\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\x64\Debug\netstandard2.0\Algorithm.FuzzyStrings.csprojAssemblyReference.cache

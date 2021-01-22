@@ -1,0 +1,9 @@
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\Release\netstandard2.0\Algorithm.FuzzyStrings.deps.json
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\Release\netstandard2.0\Algorithm.FuzzyStrings.dll
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\bin\Release\netstandard2.0\Algorithm.FuzzyStrings.pdb
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\Release\netstandard2.0\Algorithm.FuzzyStrings.csprojAssemblyReference.cache
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\Release\netstandard2.0\Algorithm.FuzzyStrings.csproj.CoreCompileInputs.cache
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\Release\netstandard2.0\Algorithm.FuzzyStrings.AssemblyInfoInputs.cache
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\Release\netstandard2.0\Algorithm.FuzzyStrings.AssemblyInfo.cs
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\Release\netstandard2.0\Algorithm.FuzzyStrings.dll
+C:\_CMM\git\applications\alexa.apps\Algorithm.FuzzyStrings\Algorithm.FuzzyStrings\obj\Release\netstandard2.0\Algorithm.FuzzyStrings.pdb
