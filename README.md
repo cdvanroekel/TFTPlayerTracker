@@ -12,7 +12,7 @@ Saying "Track Player [Name]" will add the name to the right column. Saying "Clea
 If you do not wish to list players, keeping the player list empty or clicking "Update Player List" after deleting all players from the list
 will tell the tracker to add whatever it hears/recognizes following "Track Player". This mode is often incredibly inaccurate.
 
-Control Panel > Ease of Access > Speech Recognition > Train your computer to understand you better is not required to use the player tracker,
+```Control Panel > Ease of Access > Speech Recognition > Train your computer to understand you better``` is not required to use the player tracker,
 but it will improve results according to the documentation on the Microsoft Cognitive Speech API.
 
 
