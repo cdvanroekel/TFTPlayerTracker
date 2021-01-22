@@ -1,4 +1,8 @@
-﻿#region using directives
+﻿/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ * Derived from https://www.codeproject.com/articles/380027/csharp-speech-to-text
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+#region using directives
 
 using System;
 using System.Speech.Recognition;
