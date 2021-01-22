@@ -119,6 +119,12 @@ namespace PlayerTracker
             }
         }
 
+        private void ClearPlayers()
+        {
+            txtSpoken.Text = String.Empty;
+            CopyTextToFile();
+        }
+
         #endregion
 
         #region speechEngine events
@@ -140,8 +146,7 @@ namespace PlayerTracker
             }
             else if (result.FuzzyEquals(ClearPlayersCommand))
             {
-                txtSpoken.Text = null;
-                CopyTextToFile();
+                ClearPlayers();
             };
         }
 
@@ -183,6 +188,8 @@ namespace PlayerTracker
             speechRecognitionEngine.RecognizeAsyncStop();
             // clean references
             speechRecognitionEngine.Dispose();
+            ClearPlayers();
+
         }
 
         #endregion
@@ -196,7 +203,7 @@ namespace PlayerTracker
 
         private void ButtonUpdate_Click(object sender, RoutedEventArgs e)
         {
-            txtSpoken.Text = String.Empty;
+            ClearPlayers();
             loadCommands();
         }
 
