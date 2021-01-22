@@ -2,8 +2,7 @@
 A tool used to track the order via voice commands of who you've played in Team Fight Tactics
 
 The Player Tracker is prompted by the following phrases:
-"Track Player [Name]"
-"Clear Player List"
+"Track Player [Name]", "Clear Player List"
 
 For best results, populate the left panel with the player names in the game you are wanting to track.
 Once the list is populated, click "Update Player List".
